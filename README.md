@@ -1,4 +1,7 @@
-### Hi there 👋
+### 💬 Hello user!
+    💬 I'm currently a computer engineering student at University of Cincinnati.
+    💬 I'm currently learning software engineering, computer architecture, and electronics.
+    💬 I'm looking for help with anything that involves debugging.
 
 <!--
 **justinfer/justinfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
